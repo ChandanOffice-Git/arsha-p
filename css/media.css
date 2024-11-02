@@ -1,0 +1,107 @@
+@media screen and (max-width:380px){
+    .header-container{
+      width: 90%;
+
+    }
+
+
+    #header nav{
+        display: none;
+    }
+    .banner-container{
+        width: 90%;
+        grid-template-columns: 1fr ;
+    }
+    .image-container{
+        width: 90%;
+        grid-template-columns: 1fr 1fr ;
+    }
+    .about-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+
+    }
+
+    .ipsam-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .skills-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .service-parent{
+        width: 90%;
+        grid-template-columns: 1fr ;
+    }
+    .service-container{
+        width: 90%;
+    }
+    .action-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+
+    }
+    .team-heading{
+        width: 90%;
+    }
+    .team-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .pricing-container{
+        width: 90%;
+    }
+    .plan{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .frequently-container{
+        width: 90%;
+    }
+    .contact-container{
+        width: 90%;
+    }
+    .contact-parent{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .news-container{
+        width: 90%;
+    }
+    .footer-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .footer-end-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
